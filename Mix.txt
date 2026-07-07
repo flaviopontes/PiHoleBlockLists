@@ -1,8 +1,47 @@
+# Ads
+||liftoff.io^
+||ironSource.mobi^
+
+# Affiliate Networks
+||shareasale-analytics.com^
+||impact.com^
+||api.impact.com^
+||zenaps.com^
+
 # Analytics
 ||analytics.adobe.io^
 ||tagmanager.google.com^
+
+# Consent Management
+||cdn.cookielaw.org^
+||geolocation.onetrust.com^
+||consent.cookiebot.com^
+||consentcdn.cookiebot.com^
+||cookiebot.com^
+||consent.trustarc.com^
+||sdk.privacy-center.org^
+||cdn.privacy-mgmt.com^
+||app.usercentrics.eu^
+
+# CriptoMiners
+||greatis.com^
+
+# Email Trackers
+||list-manage.com^
+||track.hubspot.com^
+||munchkin.marketo.net^
+||trackcmp.net^
+||widget.intercom.io^
+||js.driftt.com^
+
+# Social Tracking
+||graph.instagram.com^
+||i.instagram.com^
 
 # Tracking and fingerprinting
 ||fingerprintjs.com^
 ||siftscience.com^
 
+# Video Ads
+||imasdk.googleapis.com^
+||ssl.p.jwpcdn.com^
