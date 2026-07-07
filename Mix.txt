@@ -1,0 +1,8 @@
+# Analytics
+||analytics.adobe.io^
+||tagmanager.google.com^
+
+# Tracking and fingerprinting
+||fingerprintjs.com^
+||siftscience.com^
+
