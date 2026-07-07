@@ -34,6 +34,9 @@
 ||widget.intercom.io^
 ||js.driftt.com^
 
+# OEM Vendors
+||ads.huawei.com^
+
 # Social Tracking
 ||graph.instagram.com^
 ||i.instagram.com^
@@ -45,3 +48,4 @@
 # Video Ads
 ||imasdk.googleapis.com^
 ||ssl.p.jwpcdn.com^
+||dai.google.com^
